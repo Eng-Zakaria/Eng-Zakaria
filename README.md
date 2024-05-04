@@ -1,16 +1,67 @@
-### Hi there 👋
+# Mohammed Zakaria
 
-<!--
-**Eng-Zakaria/Eng-Zakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++201501015701 | Cairo, Egypt  
+[mohamedzakaria.cs@gmail.com](mailto:mohamedzakaria.cs@gmail.com) | [linkedin.com/in/eng-zakaria](https://linkedin.com/in/eng-zakaria) | [github.com/Eng-Zakaria](https://github.com/Eng-Zakaria)
 
-Here are some ideas to get you started:
+## Summary
+Recent graduate in Computer Science and Artificial Intelligence seeking a machine learning, NLP, or AI-related role. Skilled in NLP techniques, deep learning frameworks, and computer vision. Eager to apply knowledge and contribute to innovative projects in a dynamic team environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+**Helwan University, Cairo, Egypt**  
+*B.Sc. Computer Science and Artificial Intelligence*  
+September 2020 - June 2024  
+Level 4, GPA 3.2, Very Good
+
+## Technical Skills
+- **Natural Language Processing (NLP):** Transformers, LLMs, LangChain, RAG, Prompt Engineering, Question Answering Systems.
+- **Libraries and Frameworks:** Pandas, NumPy, scikit-learn, Keras
+- **Deep Learning:** TensorFlow, PyTorch
+- **Computer Vision:** OpenCV, CNNs, deep learning frameworks (image classification, object detection, image recognition)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Data Preprocessing:** Data cleaning, feature engineering, data normalization
+- **Model Evaluation:** Cross-Validation, metrics (accuracy, precision, recall, F1-score)
+- **Version Control:** Git, GitHub
+- **Programming:** Python, SQL, R, Java, C#, C++, C, Scala, HTML, CSS, JS
+- **Platforms:** Colab, Kaggle, Hugging Face
+- **Software:** VSCode, Visual Studio, Microsoft Excel, PowerBI, Word, PowerPoint
+
+## Experience
+**KSAA - NLP Intern (remote)**  
+November 2023 - March 2024  
+- Conducted research on NLP techniques, focusing on enhancing question-answering systems (QAS).
+- Authored a scientific paper detailing findings and insights.
+- Developed an NLP chat application for user-friendly conversational experiences.
+
+**The Sparks - Computer Vision Intern**  
+August 2023 - November 2023  
+- Developed computer vision projects for real-world applications.
+
+**University of Zurich UZH - Blockchain Development Intern (remote)**  
+June 2023 - October 2023  
+- Proficient in constructing Blockchain systems.
+- Insights into startup dynamics and corporate Blockchain integration.
+- Active participation in cryptocurrency and NFT.
+
+**ITI - Full Stack Asp.net Intern**  
+June 2022 - November 2022  
+- Proficient in crafting web applications with ASP.NET Core.
+- Achieved seamless front and back end integration through API utilization.
+
+## Projects
+- **Graduation Project: Hadith Chat App**
+  - Django-based interactive web application using RAG model and QAS.
+  - Designed to provide easy access to Islamic teachings through conversational AI.
+
+- [Amazon Stock Price Project](https://github.com/Eng-Zakaria/Amazon_Stock_Price.git)
+- [Ar-En Translation using RNN](https://github.com/Eng-Zakaria/RNN_Translation_AR_EN.git)
+- [Netflix Movies and TV Shows Recommendation](https://github.com/Eng-Zakaria/Netflix_Movies_and_TV_Shows.git)
+- [English Profanity Words](https://github.com/Eng-Zakaria/English-profanity-words.git)
+
+## Certifications and Courses
+- Python, R, Machine learning, Deep learning, PyTorch, TensorFlow 2.0, Computer Vision, NLP
+- Data Science, RAG, Blockchain Development
+
+## Additional Skills
+- **Languages:** English (fluent), Arabic (native)
+- **Blockchain:** Cryptocurrency, NFT
+- **Web:** ASP.NET Core, Node.js
