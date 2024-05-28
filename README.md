@@ -26,12 +26,6 @@ Level 4, GPA 3.2, Very Good
 - **Software:** VSCode, Visual Studio, Microsoft Excel, PowerBI, Word, PowerPoint
 
 ## Experience
-**KSAA - NLP Intern (remote)**  
-November 2023 - March 2024  
-- Conducted research on NLP techniques, focusing on enhancing question-answering systems (QAS).
-- Authored a scientific paper detailing findings and insights.
-- Developed an NLP chat application for user-friendly conversational experiences.
-
 **The Sparks - Computer Vision Intern**  
 August 2023 - November 2023  
 - Developed computer vision projects for real-world applications.
@@ -63,5 +57,3 @@ June 2022 - November 2022
 
 ## Additional Skills
 - **Languages:** English (fluent), Arabic (native)
-- **Blockchain:** Cryptocurrency, NFT
-- **Web:** ASP.NET Core, Node.js
