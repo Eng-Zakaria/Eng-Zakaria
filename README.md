@@ -10,7 +10,7 @@ Recent graduate in Computer Science and Artificial Intelligence seeking a machin
 **Helwan University, Cairo, Egypt**  
 *B.Sc. Computer Science and Artificial Intelligence*  
 September 2020 - June 2024  
-Level 4, GPA 3.2, Very Good
+GPA 3.3, Very Good
 
 ## Technical Skills
 - **Natural Language Processing (NLP):** Transformers, LLMs, LangChain, RAG, Prompt Engineering, Question Answering Systems.
@@ -26,6 +26,15 @@ Level 4, GPA 3.2, Very Good
 - **Software:** VSCode, Visual Studio, Microsoft Excel, PowerBI, Word, PowerPoint
 
 ## Experience
+**iSchool - AI Instructor**
+June 2024 - Current
+- Successfully conducted over 100 interactive online and offline sessions, each 2.5-hour long, resulting in a 95% student satisfaction
+rate.
+- Facilitated the completion of 60+ student-led AI projects, including simple ai games, object detection and chatbot tasks,
+demonstrating the practical application of Python programming and data preprocessing.
+- Received excellent parental feedback, with 75% of parents reporting a noticeable increase in their child’s interest in technology
+and AI.
+
 **The Sparks - Computer Vision Intern**  
 August 2023 - November 2023  
 - Developed computer vision projects for real-world applications.
