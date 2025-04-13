@@ -4,7 +4,10 @@
 [mohamedzakaria.cs@gmail.com](mailto:mohamedzakaria.cs@gmail.com) | [linkedin.com/in/eng-zakaria](https://linkedin.com/in/eng-zakaria) | [github.com/Eng-Zakaria](https://github.com/Eng-Zakaria)
 
 ## Summary
-Recent graduate in Computer Science and Artificial Intelligence seeking a machine learning, NLP, or AI-related role. Skilled in NLP techniques, deep learning frameworks, and computer vision. Eager to apply knowledge and contribute to innovative projects in a dynamic team environment.
+Junior Data Engineer with a strong foundation in data engineering, machine learning, and data science. Proficient in
+designing and optimizing data pipelines, managing large-scale databases, and implementing ETL processes. Skilled in
+Python, SQL, and cloud platforms, with hands-on experience in data preprocessing, feature engineering, and model
+deployment. Passionate about building efficient and scalable data systems to drive data-driven decision making.
 
 ## Education
 **Helwan University, Cairo, Egypt**  
@@ -13,21 +16,19 @@ September 2020 - June 2024
 GPA 3.3, Very Good
 
 ## Technical Skills
-- **Natural Language Processing (NLP):** Transformers, LLMs, LangChain, RAG, Prompt Engineering, Question Answering Systems.
-- **Libraries and Frameworks:** Pandas, NumPy, scikit-learn, Keras
-- **Deep Learning:** TensorFlow, PyTorch
-- **Computer Vision:** OpenCV, CNNs, deep learning frameworks (image classification, object detection, image recognition)
-- **Data Visualization:** Matplotlib, Seaborn
-- **Data Preprocessing:** Data cleaning, feature engineering, data normalization
-- **Model Evaluation:** Cross-Validation, metrics (accuracy, precision, recall, F1-score)
-- **Version Control:** Git, GitHub
-- **Programming:** Python, SQL, R, Java, C#, C++, C, Scala, HTML, CSS, JS
-- **Platforms:** Colab, Kaggle, Hugging Face
-- **Software:** VSCode, Visual Studio, Microsoft Excel, PowerBI, Word, PowerPoint
+• **Programming** : Python, Java, Linux Bash / Shell scripting, SQL
+• **ETL and Big Data Tools** : Spark, Airflow, Hadoop
+• **Database Management** : SQL Server, PostgreSQL, MySQL
+• **Cloud Platforms** : AWS, GCP, Azure
+• **Data Warehousing** : Snowflake, Redshift, BigQuery
+• **Data Science Libraries**: Pandas, NumPy, Scikit-learn
+• **Data Visualization and Reporting**: Matplotlib, Seaborn, Tableau, PowerBI
+• **Containerization**: Docker
+• **Soft Skills**: Problem Solving, Team Collaboration, Technical Documentation
 
 ## Experience
 **iSchool - AI Instructor**
-June 2024 - Current
+June 2024 - Nov 2024
 - Successfully conducted over 100 interactive online and offline sessions, each 2.5-hour long, resulting in a 95% student satisfaction
 rate.
 - Facilitated the completion of 60+ student-led AI projects, including simple ai games, object detection and chatbot tasks,
@@ -35,9 +36,6 @@ demonstrating the practical application of Python programming and data preproces
 - Received excellent parental feedback, with 75% of parents reporting a noticeable increase in their child’s interest in technology
 and AI.
 
-**The Sparks - Computer Vision Intern**  
-August 2023 - November 2023  
-- Developed computer vision projects for real-world applications.
 
 **University of Zurich UZH - Blockchain Development Intern (remote)**  
 June 2023 - October 2023  
