@@ -26,41 +26,8 @@ GPA 3.3, Very Good
 • **Containerization**: Docker
 • **Soft Skills**: Problem Solving, Team Collaboration, Technical Documentation
 
-## Experience
-**iSchool - AI Instructor**
-June 2024 - Nov 2024
-- Successfully conducted over 100 interactive online and offline sessions, each 2.5-hour long, resulting in a 95% student satisfaction
-rate.
-- Facilitated the completion of 60+ student-led AI projects, including simple ai games, object detection and chatbot tasks,
-demonstrating the practical application of Python programming and data preprocessing.
-- Received excellent parental feedback, with 75% of parents reporting a noticeable increase in their child’s interest in technology
-and AI.
-
-
-**University of Zurich UZH - Blockchain Development Intern (remote)**  
-June 2023 - October 2023  
-- Proficient in constructing Blockchain systems.
-- Insights into startup dynamics and corporate Blockchain integration.
-- Active participation in cryptocurrency and NFT.
-
-**ITI - Full Stack Asp.net Intern**  
-June 2022 - November 2022  
-- Proficient in crafting web applications with ASP.NET Core.
-- Achieved seamless front and back end integration through API utilization.
-
-## Projects
-- **Graduation Project: Hadith Chat App**
+## Project
+- **Graduation Project: Hadith Chat App** : A+
   - Django-based interactive web application using RAG model and QAS.
   - Designed to provide easy access to Islamic teachings through conversational AI.
 
-- [Amazon Stock Price Project](https://github.com/Eng-Zakaria/Amazon_Stock_Price.git)
-- [Ar-En Translation using RNN](https://github.com/Eng-Zakaria/RNN_Translation_AR_EN.git)
-- [Netflix Movies and TV Shows Recommendation](https://github.com/Eng-Zakaria/Netflix_Movies_and_TV_Shows.git)
-- [English Profanity Words](https://github.com/Eng-Zakaria/English-profanity-words.git)
-
-## Certifications and Courses
-- Python, R, Machine learning, Deep learning, PyTorch, TensorFlow 2.0, Computer Vision, NLP
-- Data Science, RAG, Blockchain Development
-
-## Additional Skills
-- **Languages:** English (fluent), Arabic (native)
