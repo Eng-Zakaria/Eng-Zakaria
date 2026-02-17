@@ -1,33 +1,84 @@
-# Mohammed Zakaria
+<!--
+    Hey there, I'm Mohammed Zakaria!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @Eng-Zakaria :))
+-->
 
-+201501015701 | Cairo, Egypt  
-[mohamedzakaria.cs@gmail.com](mailto:mohamedzakaria.cs@gmail.com) | [linkedin.com/in/eng-zakaria](https://linkedin.com/in/eng-zakaria) | [github.com/Eng-Zakaria](https://github.com/Eng-Zakaria)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-## Summary
-Junior Data Engineer with a strong foundation in data engineering, machine learning, and data science. Proficient in
-designing and optimizing data pipelines, managing large-scale databases, and implementing ETL processes. Skilled in
-Python, SQL, and cloud platforms, with hands-on experience in data preprocessing, feature engineering, and model
-deployment. Passionate about building efficient and scalable data systems to drive data-driven decision making.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
 
-## Education
-**Helwan University, Cairo, Egypt**  
-*B.Sc. Computer Science and Artificial Intelligence*  
-September 2020 - June 2024  
-GPA 3.3, Very Good
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-## Technical Skills
-- **Programming** : Python, Java, Linux Bash / Shell scripting, SQL
-- **ETL and Big Data Tools** : Spark, Airflow, Hadoop
-- **Database Management** : SQL Server, PostgreSQL, MySQL
-- **Cloud Platforms** : AWS, GCP, Azure
-- **Data Warehousing** : Snowflake, Redshift, BigQuery
-- **Data Science Libraries**: Pandas, NumPy, Scikit-learn
-- **Data Visualization and Reporting**: Matplotlib, Seaborn, Tableau, PowerBI
-- **Containerization**: Docker
-- **Soft Skills**: Problem Solving, Team Collaboration, Technical Documentation
+<div>
+    <img src="./assets/about_Mohammed.gif" alt="About Me Terminal GIF"/>
+</div>
 
-## Project
-- **Graduation Project: Hadith Chat App** : A+
-  - Django-based interactive web application using RAG model and QAS.
-  - Designed to provide easy access to Islamic teachings through conversational AI.
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
+
+### Publications
+<div> 
+  <a href="https://medium.com/@eng-zakaria">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+  <a href="https://dev.to/eng-zakaria">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+</div>
+
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, Web3, Blockchain and other interesting topics.
+
+<!--
+
+
+     Fast links to my socials!
+-->
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/Eng-Zakaria/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://dev.to/end-zakaria">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    <a href="https://medium.com/@eng-zakaria">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
