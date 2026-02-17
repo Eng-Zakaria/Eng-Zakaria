@@ -28,10 +28,10 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,azure,aws,bash,docker,dynamodb,fastapi,flask,gcp,grafana,graphql,kafka,kubernetes,latex,linux,mint,postman,powershell,pycharm,r,rabbitmq,scala,solidity,selenium,terraform,ubuntu,vscode,windows,selenium,yarn,regex,github,git,sqlite,mongodb,mysql,postgres,java,scala,cs,dotnet,html,css,bootstrap,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=solidity,kubernetes,dynamodb)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
