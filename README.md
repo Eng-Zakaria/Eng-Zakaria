@@ -18,7 +18,7 @@
 -->
 
 <div>
-    <img src="./assets/about_Mohammed.gif" alt="About Me Terminal GIF"/>
+    <img src="assets/about_me.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
